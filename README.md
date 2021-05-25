@@ -20,6 +20,7 @@
 - [ ] Process a pptx file to play slideshow [this may help](https://stackoverflow.com/questions/21523267/how-to-convert-pptx-files-to-jpg-or-png-for-each-slide-on-linux)
 - [ ] Determine if web slideshow or local slideshow (already have code for local slideshows)
 - [ ] Set format of files allowed as PPT files only, (PPT, PPTX, **WHAT ELSE?**)
+- [ ] Fix upload connection timing out issue
 
 #### Resources
 - CRON https://www.raspberrypi.org/documentation/linux/usage/cron.md https://opensource.com/article/17/11/how-use-cron-linux
