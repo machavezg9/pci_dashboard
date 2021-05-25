@@ -2,9 +2,9 @@
 
 ### Requirements
 
-- [ ] Server based, stored locally
-- [ ] Simple to access and process
-- [ ] Input PPT file
+- [x] Server based, stored locally **pcidash.local to access Apache server
+- [x] Simple to access and process **see above, also added a simple browse to upload file
+- [ ] Input PPT file 
 - [ ] Display data using Raspberry Pi
 - [ ] Display on multiple screens, use multiple Pi's
 - [ ] Access data from a single node, server node
@@ -19,4 +19,7 @@
 - [ ] Figure out how to pop-up a message when ppt is uploaded. Rather than redirecting to php file [maybe??](https://www.geeksforgeeks.org/how-to-pop-an-alert-message-box-using-php/)
 - [ ] Process a pptx file to play slideshow [this may help](https://stackoverflow.com/questions/21523267/how-to-convert-pptx-files-to-jpg-or-png-for-each-slide-on-linux)
 - [ ] Determine if web slideshow or local slideshow (already have code for local slideshows)
+- [ ] Set format of files allowed as PPT files only, (PPT, PPTX, **WHAT ELSE?**)
 
+#### Resources
+- CRON https://www.raspberrypi.org/documentation/linux/usage/cron.md https://opensource.com/article/17/11/how-use-cron-linux
